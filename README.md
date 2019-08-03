@@ -1,6 +1,6 @@
 # APACHE webserver setup on Redhat based Server
 
-Playbook for installing apache with PHP along with the index pages
+Playbook for installing apache and PHP along with the index pages
 
 ```bash
 
